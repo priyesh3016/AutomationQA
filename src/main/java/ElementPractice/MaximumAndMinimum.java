@@ -10,5 +10,6 @@ public class MaximumAndMinimum {
 		 if (num < min) min = num;
 		 }
 		 System.out.println("Max: " + max + ", Min: " + min);
+		 System.out.println("Max: " + max + ", Min: " + min);
 		 }
 		}
